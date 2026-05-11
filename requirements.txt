@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+textblob
+plotly
+pandas
+moviepy
+nltk
+matplotlib
+fpdf
